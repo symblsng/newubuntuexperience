@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ubuntu-environment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ali/Docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ali/Virtual Machine" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/Common Command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/Common.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/environment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/environments/Java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firefox/firefox_skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/git_common_skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/git_ssh_key.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij-idea/intellij-idea-skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jenkins/jenkins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/common.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/install.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neuxs/nexus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/chromium/common_problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/Cluster.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/Installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbt/sbt-common-problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Servers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssh/ssh_key.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam/common_problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_and_software _used.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_and_software _used/system_version.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/todo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/environment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ubuntu/problems_and_solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ubuntu/some_common_skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wifi/wifi.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bM1WUg4LTBRrUPM9VOQGFNpsOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="" />
+      <created>1588427179524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588427179524</updated>
+      <workItem from="1588427188391" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
