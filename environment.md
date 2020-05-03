@@ -26,6 +26,8 @@
     
 ## Not Must Use
 
+    sudo apt install openssh-server
+
     sudo apt-get install mysql-server
 
 ### Nat123
