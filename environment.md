@@ -28,6 +28,18 @@
 
     sudo apt-get install mysql-server
 
+### Nat123
+
+    sudo apt install mono-complete
+    cd ~ && mkdir nat123 && cd nat123
+    wget http://www.nat123.com/down/nat123linux.tar.gz
+    tar -zxvf nat123linux.tar.gz
+
+#### Run nat123
+
+    mono nat123linux.sh
+
+
 ## Useless
 
     sudo apt install openjdk-11-jre-headless
