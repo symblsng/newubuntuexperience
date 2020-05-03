@@ -35,10 +35,6 @@
     wget http://www.nat123.com/down/nat123linux.tar.gz
     tar -zxvf nat123linux.tar.gz
 
-#### Run nat123
-
-    mono nat123linux.sh
-
 
 ## Useless
 
