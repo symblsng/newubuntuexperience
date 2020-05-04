@@ -35,5 +35,5 @@ Grant permission
     
 ### Other
 
-In Ubuntu 20, the rc.local is not suggested.
+In Ubuntu 20, the `rc.local` is not suggested.
     
