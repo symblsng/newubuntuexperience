@@ -2,10 +2,6 @@
 
     mono nat123linux.sh
 
-## Instructions
-
-+ http://www.nat123.com/pages_17_600.jsp
-
 ## Run While Startup
 
     vi /etc/rc.local
@@ -32,6 +28,10 @@ Content:
 Grant permission
 
     chmod 777 /etc/rc.local
+    
+### Instructions
+
++ http://www.nat123.com/pages_17_600.jsp
     
 ### Other
 
