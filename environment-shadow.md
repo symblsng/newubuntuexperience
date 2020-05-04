@@ -21,19 +21,12 @@
 
 ## Jenkins
 
-    wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
-    
-edit the file using `vi /etc/apt/sources.list` and add the following line in the end of the file(The add-apt-repository is not effective here) 
+  docker pull jenkins/jenkins
+  
 
-    deb https://pkg.jenkins.io/debian-stable binary/
-
-Add then
-
-    sudo apt-get update
-    
-    sudo apt-get install jenkins
     
 [References](./softwares/jenkins/README.md)    
+
 
 ## Useless
 
