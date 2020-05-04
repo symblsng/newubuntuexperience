@@ -1,5 +1,5 @@
-# READM
+# README
 
-## Installation References
+## Installation
 
-+ https://pkg.jenkins.io/debian-stable/
+https://hub.docker.com/r/jenkins/jenkins/
