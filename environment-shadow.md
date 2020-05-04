@@ -25,8 +25,8 @@
 
 ## Jenkins
 
-    docker pull jenkins/jenkins
-    docker run -d -p 10001:8080 -p 50000:50000 --name jenkins jenkins/jenkins
+    docker pull jenkins/jenkins:lts
+    docker run -d -p 10001:8080 -p 50000:50000 --name jenkins jenkins/jenkins:lts
 
     
 [References](./softwares/jenkins/README.md)    
