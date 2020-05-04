@@ -19,10 +19,14 @@
 
 [Docker](./softwares/docker/README.md)
 
+## Docker Accelerator
+
+[Aliyun accelerator](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+
 ## Jenkins
 
   docker pull jenkins/jenkins
-  
+  docker run -d -p 9001:8080 -p 50000:50000 --name jenkins jenkins/jenkins
 
     
 [References](./softwares/jenkins/README.md)    
