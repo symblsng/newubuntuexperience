@@ -37,6 +37,9 @@
     wget http://www.nat123.com/down/nat123linux.tar.gz
     tar -zxvf nat123linux.tar.gz
 
+### Nginx 
+
+    sudo apt install nginx
 
 ## Useless
 
