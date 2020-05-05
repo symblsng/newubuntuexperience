@@ -1,8 +1,12 @@
 # Not Must Use
 
     sudo apt install openssh-server
+    
+## Mysql Server
 
     sudo apt-get install mysql-server
+    
+[Others](./softwares/mysql/common.md)
 
 ## Nat123
 

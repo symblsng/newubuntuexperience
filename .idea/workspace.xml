@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ubuntu-environment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ali/Docker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ali/Virtual Machine" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/Common Command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/Common.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environments/Java.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firefox/firefox_skills.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/git_common_skills.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/git_ssh_key.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellij-idea/intellij-idea-skills.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jenkins/jenkins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/common.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/install.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neuxs/nexus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/chromium/common_problems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/Cluster.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/Installation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sbt/sbt-common-problems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Servers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssh/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssh/ssh_key.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/steam/common_problems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system_and_software _used.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system_and_software _used/system_version.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/todo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomcat/environment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ubuntu/problems_and_solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ubuntu/some_common_skills.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wifi/wifi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +50,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\environments" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,7 +66,17 @@
       <option name="presentableId" value="Default" />
       <updated>1588427179524</updated>
       <workItem from="1588427188391" duration="305000" />
+      <workItem from="1588555883429" duration="718000" />
+      <workItem from="1588566581295" duration="26000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1588555938669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588555938669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,9 +117,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588557274193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588557274193" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1588555949017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588555949017" />
+    <state x="476" y="201" key="git4idea.merge.GitPullDialog" timestamp="1588566591403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1588566591403" />
   </component>
 </project>
