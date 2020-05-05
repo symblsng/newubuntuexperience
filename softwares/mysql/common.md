@@ -37,6 +37,10 @@ At last, logout the system and relogin.
     GRANT ALL ON *.* TO 'symbls'@'%';
 
     FLUSH PRIVILEGES;
+    
+### Update user password
+
+    ALTER USER 'symbls'@'%' IDENTIFIED BY '1234';
 
 ### SO I USE ANOTHER USER
 
