@@ -27,6 +27,10 @@
 
     docker pull jenkins/jenkins:lts
     docker run -u root -d -p 10001:8080 -p 50000:50000 -v jenkins-data:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock --name jenkins jenkins/jenkins:lts
+    
+### Run jenkins automatically after startup
+    
+    docker update --restart on-failure:10 jenkins
 
     
 [References](./softwares/jenkins/README.md)    
