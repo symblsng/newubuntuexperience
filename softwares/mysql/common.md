@@ -30,6 +30,14 @@ modify your password:
     
 At last, logout the system and relogin.
 
+### Create new user
+
+    CREATE USER 'symbls'@'%' IDENTIFIED BY '123';
+
+    GRANT ALL ON *.* TO 'symbls'@'%';
+
+    FLUSH PRIVILEGES;
+
 ### SO I USE ANOTHER USER
 
     grant all privileges on *.* to 'symbls'@'localhost' identified by '123456' with grant option;
