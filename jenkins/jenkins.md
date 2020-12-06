@@ -1,7 +1,5 @@
 # Jenkins
 
-docker pull jenkins/jenkins:lts
-
 ## Problems
 
 If it is stuck after input the password:
@@ -11,3 +9,4 @@ If it is stuck after input the password:
     http://mirror.xmission.com/jenkins/updates/update-center.json
 
 + and set the connectionCheckUrl from `http://www.google.com/` to `http://www.baidu.com/` in the file `$JENKINS_HOME/updates/default.json`   -e.g. `/var/jenkins_home/updates/default.json`
+

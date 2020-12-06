@@ -19,15 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="Add MYSQL docs">
+    <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="Add JRE docs">
+      <change afterPath="$PROJECT_DIR$/port_management/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port_management/ip_address.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/jenkins/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_less_often/nat123/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firefox/firefox_skills.md" beforeDir="false" afterPath="$PROJECT_DIR$/use_less_often/firefox/firefox_skills.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git/git_common_skills.md" beforeDir="false" afterPath="$PROJECT_DIR$/git/git_common_skills.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbt/sbt-common-problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/use_less_often/sbt/sbt-common-problems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment-shadow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environments/tomcat/environment.md" beforeDir="false" afterPath="$PROJECT_DIR$/use_less_often/tomcat/environment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jenkins/jenkins.md" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins/jenkins.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/Servers.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/Servers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steam/common_problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/use_less_often/steam/common_problems.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system_and_software _used.md" beforeDir="false" afterPath="$PROJECT_DIR$/system_and_software _used.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wifi/wifi.md" beforeDir="false" afterPath="$PROJECT_DIR$/use_less_often/wifi/wifi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softwares/ssh_key/git_ssh_key.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/ssh_key/git_ssh_key.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +62,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\use_less_often" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\server" />
+      <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\use_less_often" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\softwares\ssh_key" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\softwares" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\environments" />
@@ -95,7 +98,9 @@
       <workItem from="1588566581295" duration="26000" />
       <workItem from="1588649771002" duration="198000" />
       <workItem from="1588651672147" duration="983000" />
-      <workItem from="1607230008791" duration="4281000" />
+      <workItem from="1607230008791" duration="4786000" />
+      <workItem from="1607234842622" duration="2143000" />
+      <workItem from="1607255458982" duration="2099000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1588555938669</created>
@@ -132,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607232840507</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add JRE docs">
+      <created>1607234561677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607234561677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +191,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Move SSH docs" />
     <MESSAGE value="Add MYSQL docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MYSQL docs" />
+    <MESSAGE value="Add JRE docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add JRE docs" />
   </component>
 </project>

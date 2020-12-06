@@ -44,13 +44,25 @@ Reference:
 
 [Ali accelerator](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
-## Servers used
-
-[Jenkins](https://jenkins.io/)
-
 ## Jre
 
     sudo apt install -y openjdk-14-jre
 
 Reference:
 + https://developer.aliyun.com/packageSearch?word=jre
+
+## Jenkins
+
+    docker pull jenkins/jenkins:lts
+    docker run -u root -d -p 11001:8080 -p 11002:50000 -v jenkins-data:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock --name jenkins jenkins/jenkins:lts
+
+Run jenkins automatically after startup
+
+    docker update --restart on-failure:10 jenkins
+
+Reference:
++ https://jenkins.io/
+
+[Install docker in jenkins container](./jenkins/README.md)
+
+[Login without typing password](./ssh_key/git_ssh_key.md)
