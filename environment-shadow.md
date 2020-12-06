@@ -23,6 +23,3 @@
 [References](./softwares/jenkins/README.md)    
 
 
-## Useless
-
-    sudo apt install openjdk-11-jre-headless

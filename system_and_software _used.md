@@ -6,11 +6,10 @@
 
 !["system version"](./system_and_software _used/system_version.png)
 
-## Sofeware
+## Software
 
-+	[Intellij Idea](http://www.jetbrains.com/idea/)
++ [Intellij Idea](http://www.jetbrains.com/idea/)
 + [ATOM](https://atom.io/)
-+ git
 + [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ## Others

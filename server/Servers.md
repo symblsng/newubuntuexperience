@@ -33,6 +33,7 @@ Reference:
 + https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#repo-qp-apt-install-from-source)
 
 [Create New User](./mysql/common.md)
+
 [Allow being visiting by remote user](./mysql/common.md)
 
 ## Docker
@@ -41,8 +42,15 @@ Reference:
 
 ## Docker Accelerator
 
-[Aliyun accelerator](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+[Ali accelerator](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
 ## Servers used
 
 [Jenkins](https://jenkins.io/)
+
+## Jre
+
+    sudo apt install -y openjdk-14-jre
+
+Reference:
++ https://developer.aliyun.com/packageSearch?word=jre
