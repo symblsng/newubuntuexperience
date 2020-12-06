@@ -2,6 +2,9 @@
 
 ## REFERENCES
 
+    cd ~/
+    mkdir .ssh
     ssh-keygen
+    
     cd ~/.ssh
-    vi id_rsa.pub
+    cat id_rsa.pub
