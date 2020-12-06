@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="first commit">
+    <list default="true" id="c3b2ade4-b2a1-462d-abb6-091b02010b21" name="Default Changelist" comment="Move SSH docs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/softwares/ssh_key/git_ssh_key.md" beforeDir="false" afterPath="$PROJECT_DIR$/softwares/ssh_key/git_ssh_key.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment-shadow.md" beforeDir="false" afterPath="$PROJECT_DIR$/environment-shadow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.md" beforeDir="false" afterPath="$PROJECT_DIR$/environment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Servers.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/Servers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softwares/docker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/docker/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softwares/mysql/common.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/mysql/common.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softwares/mysql/install.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\server" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\softwares\ssh_key" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\softwares" />
       <recent name="D:\workspaces\IdeaProjects\ubuntu-environment\environments" />
@@ -71,6 +77,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,6 +93,7 @@
       <workItem from="1588566581295" duration="26000" />
       <workItem from="1588649771002" duration="198000" />
       <workItem from="1588651672147" duration="983000" />
+      <workItem from="1607230008791" duration="2569000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1588555938669</created>
@@ -108,11 +116,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588651936200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Move SSH docs">
+      <created>1607230135654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607230135654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -153,24 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588652012648">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588652012648" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1588651974389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588651974389" />
-    <state x="478" y="147" width="579" height="530" key="find.popup" timestamp="1588651693821">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="478" y="147" width="579" height="530" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1588651693821" />
-    <state x="476" y="201" key="git4idea.merge.GitPullDialog" timestamp="1588651954531">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="476" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1588651954531" />
+    <MESSAGE value="Move SSH docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move SSH docs" />
   </component>
 </project>

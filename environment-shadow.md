@@ -1,12 +1,6 @@
 # Not Must Use
 
-    sudo apt install openssh-server
-    
-## Mysql Server
-
-    sudo apt-get install mysql-server
-    
-[Others](./softwares/mysql/common.md)
+[Others](server/mysql/common.md)
 
 ## Nat123
 
@@ -15,17 +9,6 @@
     wget http://www.nat123.com/down/nat123linux.tar.gz
     tar -zxvf nat123linux.tar.gz
 
-## Nginx 
-
-    sudo apt install nginx
-    
-## Docker
-
-[Docker](./softwares/docker/README.md)
-
-## Docker Accelerator
-
-[Aliyun accelerator](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
 ## Jenkins
 

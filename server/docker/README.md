@@ -3,7 +3,7 @@
 
 ## Install
 
-    sudo apt-get install \
+    sudo apt install -y \
         apt-transport-https \
         ca-certificates \
         curl \
@@ -13,14 +13,15 @@
     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
     sudo apt-key fingerprint 0EBFCD88
     
-Due to the `focal` version is not released, so we `do not use` the following command:
+DO NOT USE!! 
+    Due to the `focal` version is not released, so we `do not use` the following command:
     
     sudo add-apt-repository \
         "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
             $(lsb_release -cs) \
             stable"
             
-use the command instad
+use the command instead
 
     sudo add-apt-repository \
         "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
@@ -28,7 +29,7 @@ use the command instad
             stable"
          
     sudo apt-get update
-    sudo apt-get install docker-ce docker-ce-cli containerd.io
+    sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
 ## References
 

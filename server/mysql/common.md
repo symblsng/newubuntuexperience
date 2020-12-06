@@ -36,7 +36,21 @@ At last, logout the system and relogin.
 
     GRANT ALL ON *.* TO 'symbls'@'%';
 
+    grant all privileges on *.* to 'symbls'@'%' with grant option;
+
     FLUSH PRIVILEGES;
+
+## Allow being visited by remote user
+
+    vi /etc/mysql/mysql.conf.d/mysqld.cnf
+
+Then comment
+
+    bind-address = 127.0.0.1
+
+And restart mysql
+
+    service mysql restart
     
 ### Update user password
 
@@ -44,6 +58,5 @@ At last, logout the system and relogin.
 
 ### SO I USE ANOTHER USER
 
-    grant all privileges on *.* to 'symbls'@'localhost' identified by '123456' with grant option;
     
 So I can login by user 'symbls' with password '123456'
